@@ -11,3 +11,7 @@
 4. [firewall(防火墙)](firewall(防火墙).md)
 
 5. [iptables(防火墙)](iptables(防火墙).md)
+
+6. [ssh配置公私钥key登录](ssh配置公私钥key登录.md)
+
+
