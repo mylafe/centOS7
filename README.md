@@ -14,4 +14,6 @@
 
 6. [ssh配置公私钥key登录](ssh配置公私钥key登录.md)
 
+7. [nodejs](nodejs.md)
+
 
