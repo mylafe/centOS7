@@ -20,3 +20,6 @@
 
 9. [Nginx站点配置](Nginx站点配置.md)
 
+10. [nginx](nginx.md)
+
+
