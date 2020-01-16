@@ -22,4 +22,6 @@
 
 10. [nginx](nginx.md)
 
+11. [yum](yum.md)
+
 
